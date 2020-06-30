@@ -1,6 +1,6 @@
 'use strict';
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
-const APP_URL = "https://fbstarter.herokuapp.com";
+const APP_URL = "https://projectbottest.herokuapp.com";
 
 //new text
 
